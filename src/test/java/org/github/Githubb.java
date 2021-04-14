@@ -12,9 +12,9 @@ public class Githubb {
 	
 	private void method3() {
 		System.out.println("method 3");
+
 	}
-	
-	private void method4() {
+		private void method4() {
 		System.out.println("Method 4");
 	}
 		
@@ -25,4 +25,19 @@ public class Githubb {
 	private void method6() {
 		System.out.println("method 6");
 	}
+	private void method7() {
+		System.out.println("Method 7");
+	}
+		
+	private void method8() {
+		System.out.println("method 8");
+	}
+	
+
+	private void method9() {
+		System.out.println("method 9");
+
+	}
+	
+
 }
